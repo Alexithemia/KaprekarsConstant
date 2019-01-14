@@ -1,0 +1,26 @@
+{
+  "name": "kaprekarsconstant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kaprekars.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --bail --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexithemia/KaprekarsConstant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexithemia/KaprekarsConstant/issues"
+  },
+  "homepage": "https://github.com/Alexithemia/KaprekarsConstant#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
